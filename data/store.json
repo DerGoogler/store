@@ -20,5 +20,24 @@
       "name": "Der_Googler",
       "website": "https://blog.dergoogler.com"
     }
+  },
+  {
+    "id": "g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g",
+    "title": "Random Number",
+    "description": "## Function\r\n- choose your WA package\r\n- only German (more will soon)\r\n\r\n## Others\r\n- Nice design\r\n- easy to use\r\n\r\n****\r\n\r\n## \u26A0\uFE0F 5% Chance to get a valid number",
+    "image": "https://dl.uploadgram.me/61e2f2574393dg?raw",
+    "category": "Tools",
+    "download": "https://dl.uploadgram.me/61e2f293da71dg?raw",
+    "screenshots": {
+      "enabled": true,
+      "data": [
+        "https://dl.uploadgram.me/61e2f3245cfffg?raw"
+      ]
+    },
+    "developer": {
+      "enabled": true,
+      "name": "Der_Googler",
+      "website": "https://blog.dergoogler.com"
+    }
   }
 ]
