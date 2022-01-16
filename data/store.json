@@ -2,8 +2,8 @@
   {
     "id": "com.dergoogler.hentai",
     "title": "Hentai Web",
-    "description": "# Features\r\n\r\nThe app includes some features :)\r\n\r\n> Most of these features are available after the 1.3.7 update!\r\n\r\n## Android\r\n\r\n- Option to keep the screen on\r\n- Option to inspect the app with an console\r\n- Option to login with an fingerprint\r\n\r\n## Windows\r\n\r\n- Option to open the app path\r\n- Option to enable DevTools\r\n- Option to Resize the window to different phone sizes\r\n\r\n## Global (All Platforms)\r\n\r\n- Option to change the language\r\n  - Only german and english at the monent\r\n- Option to enable always login\r\n- Option to change the cards design\r\n- Option to enable dark mode\r\n- Option to enable iOS design (don't use it with dark mode, because it isn't supported)\r\n- Option to hide the search bars/inputs\r\n\r\n### Discord\r\n\r\n<discordwidget token=\"835191866315505734\" />",
-    "image": "https://github.com/DerGoogler/Hentai-Web/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
+    "description": "# Features\r\n\r\nThe app includes some features :)\r\n\r\n\u003e Most of these features are available after the 1.3.7 update!\r\n\r\n## Android\r\n\r\n- Option to keep the screen on\r\n- Option to inspect the app with an console\r\n- Option to login with an fingerprint\r\n\r\n## Windows\r\n\r\n- Option to open the app path\r\n- Option to enable DevTools\r\n- Option to Resize the window to different phone sizes\r\n\r\n## Global (All Platforms)\r\n\r\n- Option to change the language\r\n  - Only german and english at the monent\r\n- Option to enable always login\r\n- Option to change the cards design\r\n- Option to enable dark mode\r\n- Option to enable iOS design (don\u0027t use it with dark mode, because it isn\u0027t supported)\r\n- Option to hide the search bars/inputs\r\n\r\n### Discord\r\n\r\n\u003cdiscordwidget token\u003d\"835191866315505734\" /\u003e",
+    "image": "https://github.com/DerGoogler/Hentai-Web/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw\u003dtrue",
     "category": "Entertainment",
     "download": "https://github.com/DerGoogler/Hentai-Web/releases/download/1.3.6/app-release-hotfix.apk",
     "screenshots": {
@@ -24,7 +24,7 @@
   {
     "id": "g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g",
     "title": "Random Number",
-    "description": "## Function\r\n- choose your WA package\r\n- only German (more will soon)\r\n\r\n## Others\r\n- Nice design\r\n- easy to use\r\n\r\n****\r\n\r\n## \u26A0\uFE0F 5% Chance to get a valid number",
+    "description": "## Function\r\n- choose your WA package\r\n- only German (more will soon)\r\n\r\n## Others\r\n- Nice design\r\n- easy to use\r\n\r\n****\r\n\r\n## ⚠️ 5% Chance to get a valid number",
     "image": "https://dl.uploadgram.me/61e2f2574393dg?raw",
     "category": "Tools",
     "download": "https://dl.uploadgram.me/61e2f293da71dg?raw",
@@ -38,6 +38,24 @@
       "enabled": true,
       "name": "Der_Googler",
       "website": "https://blog.dergoogler.com"
+    }
+  },
+  {
+    "id": "com.fox2code.mmm",
+    "title": "Fox\u0027s Mmm",
+    "description": "The official Magisk is dropping support to download online modules...  \n\n**This app is not officially supported by Magisk or it\u0027s developers**\n\n## Requirements\n\nMinimum:\n- Android 5.0+\n- Magisk 19.0+\n- An internet connection\n\nRecommended:\n- Android 6.0+\n- Magisk 21.2+\n- An internet connection\n\nNote: This app may require the use of a VPN in countries with a state wide firewall.\n",
+    "image": "https://raw.githubusercontent.com/Fox2Code/FoxMagiskModuleManager/master/screenshot.jpg",
+    "category": "Tools (Root)",
+    "download": "https://github.com/Fox2Code/FoxMagiskModuleManager/releases/download/0.2.5/FoxMmm-0.2.5.apk",
+    "screenshots": {
+      "enabled": true,
+      "data": [
+        "https://raw.githubusercontent.com/Fox2Code/FoxMagiskModuleManager/master/screenshot.jpg"
+      ]
+    },
+    "developer": {
+      "enabled": true,
+      "name": "Fox2Code"
     }
   }
 ]
